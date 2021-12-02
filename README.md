@@ -8,6 +8,6 @@
       
 - [ ] 2. Hafta 🔴:
   - 1. Homework
-      - GooglePageSpeed; Nedir? Nasıl Kullanılır? - -Çiçeksepeti mobil/web bak. Terimleri araştır ve blogunda paylaş. 🔜
+      - GooglePageSpeed; Nedir? Nasıl Kullanılır? - -Çiçeksepeti mobil/web bak. Terimleri araştır ve blogunda paylaş. ✅
   - 2. Homework
       - Postman API test 🔜
