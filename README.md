@@ -12,8 +12,8 @@
   - 2. Homework
       - Postman API test ✅
 
-- [ ] 3. Hafta 🔴:
+- [ ] 3. Hafta  🟢:
   - 1. Homework
-      - REST Assured API TEST. ❌
+      - REST Assured API TEST. ✅
   - 2. Homework
       - Cucumber ✅
