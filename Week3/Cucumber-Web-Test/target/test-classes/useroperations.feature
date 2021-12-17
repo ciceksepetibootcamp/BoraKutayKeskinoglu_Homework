@@ -1,5 +1,5 @@
 
-  Feature: Amazon Test Senaryoları
+  Feature: Amazon Kullanıcı İşlemleri Senaryoları
 
     Scenario Outline: Kullanıcı Giriş Yap Testi
       Given Kullanıcı anasayfayı ziyaret eder.
@@ -13,6 +13,7 @@
         | bktestotomasyon@gmail.com |  | TestTestT  |
         | 1bktestotomasyon1@gmail.com |  | ABCDEFGH |
 
+
     Scenario Outline: Ürün Sepete Ekleme Testi
       Given Kullanıcı anasayfayı ziyaret eder.
       When Kullanıcı arama butonuna "<Urun>" girer ve arama butonuna tıklar.
@@ -22,15 +23,12 @@
       Examples:
       |Urun|
       |Laptop|
-      |Kulaklik|
+      |Kulaklık|
       |Sucuk   |
       |Ford Focus|
 
       Scenario Outline:
         Given Kullanıcı anasayfayı ziyaret eder.
-        When  Kullanıcı Hesap ve Listeler' e tıklar.
-        When  "bktestotomasyon@gmail.com" girilir ve devam et butonuna tıklanır.
-        When  "Test102030" girilir. Giriş yap butonuna tıklanır.
         When Tümü butonuna tıklanır.
         When Hesabım butonuna tıklanır.
         When Giriş yapma ve Güvenlik butonuna tıklanır.
